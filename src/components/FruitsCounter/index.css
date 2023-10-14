@@ -1,0 +1,55 @@
+.counter-container {
+    background-color: #ffd569;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.card-container {
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.main-heading {
+    color: #000000;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 600;
+}
+.count {
+    color: #ffd569;
+}
+.image-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.buttons-container {
+    display: flex;
+    flex-direction: row;
+}
+.fruit-img {
+    height: 250px;
+    width: 150px;
+    border-radius: 5px;
+
+}
+.button {
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Roboto';
+    color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: 8px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+}
